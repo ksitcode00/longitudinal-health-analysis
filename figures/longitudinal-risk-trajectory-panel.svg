@@ -17,7 +17,7 @@
   <g font-family="Arial, Helvetica, sans-serif">
     <text x="78" y="225" fill="#6C7A95" font-size="13" font-weight="700" letter-spacing="1.2">CORE VULNERABILITY</text>
     <text x="78" y="276" fill="#394E86" font-size="42" font-weight="700">2.3×</text>
-    <text x="78" y="301" fill="#425267" font-size="14">higher adjusted respiratory-symptom odds</text>
+    <text x="78" y="296" fill="#425267" font-size="14">higher adjusted respiratory-</text><text x="78" y="314" fill="#425267" font-size="14">symptom odds</text>
     <text x="356" y="225" fill="#6C7A95" font-size="13" font-weight="700" letter-spacing="1.2">PHASE 1 REFERENCE</text>
     <text x="356" y="276" fill="#33445F" font-size="42" font-weight="700">1.00</text>
     <text x="356" y="301" fill="#425267" font-size="14">adjusted heatwave-impact odds</text>
@@ -29,7 +29,7 @@
     <text x="912" y="301" fill="#425267" font-size="14">adjusted heatwave-impact odds</text>
   </g>
 
-  <g filter="url(#shadow)"><rect x="52" y="348" width="644" height="262" rx="18" fill="#FFFFFF"/><rect x="724" y="348" width="424" height="262" rx="18" fill="#FFFFFF"/></g>
+  <g filter="url(#shadow)"><rect x="52" y="348" width="644" height="262" rx="18" fill="#FFFFFF"/><rect x="724" y="348" width="424" height="277" rx="18" fill="#FFFFFF"/></g>
   <text x="82" y="388" fill="#253858" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">Three-phase outcome trajectory</text>
   <text x="82" y="413" fill="#6E7C94" font-family="Arial, Helvetica, sans-serif" font-size="14">Adjusted odds of reported heatwave impact relative to Phase 1</text>
   <g font-family="Arial, Helvetica, sans-serif">
