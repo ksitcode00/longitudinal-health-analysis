@@ -25,9 +25,11 @@ I transformed multi-phase survey responses into a longitudinal analytical datase
 | Privacy | No participant-level survey data or row-level outputs are public |
 
 - [R analysis workflow](analysis/longitudinal_health_analysis.Rmd)
+- [R pipeline](R/README.md)
 - [Methodology](docs/methodology.md)
 - [Data privacy](docs/data_privacy.md)
 - [Data-access guide](data/README.md)
+- [Reproducibility](docs/reproducibility.md)
 
 ## Research Question
 
@@ -48,6 +50,35 @@ How do participant characteristics, prior diagnoses, and survey phase relate to 
   <img src="figures/study-design.svg" alt="Three-phase longitudinal survey design" width="900" />
 </p>
 
+## Analysis Walkthrough
+
+### 1. Restructure repeated responses by participant and phase
+
+The pipeline loads authorized local files and converts three phase-specific response columns into a participant-by-phase longitudinal table.
+
+```r
+inputs <- load_private_inputs()
+dat_long <- make_longitudinal_data(inputs$survey)
+```
+
+### 2. Turn free-text symptoms into analytical indicators
+
+Free-text condition fields are normalized and mapped to explicit symptom and prior-diagnosis indicators before modeling.
+
+```r
+dat_long <- add_key_symptom_flags(dat_long)
+```
+
+### 3. Model correlated responses instead of independent rows
+
+The project uses mixed-effects and GEE models to account for repeated observations from the same participant.
+
+```r
+heatwave_glmm <- fit_heatwave_glmm(dat_long)
+respiratory_gee <- fit_respiratory_gee(dat_long)
+odds_ratio_table(respiratory_gee)
+```
+
 ## Research and Program Implication
 
 The results point to pre-existing respiratory conditions as an important vulnerability factor during heatwave periods. In practice, this supports more targeted heat-health communication, symptom monitoring, and preparedness resources for higher-risk populations. These are observational associations from the study context, not causal estimates.
@@ -57,9 +88,11 @@ The results point to pre-existing respiratory conditions as an important vulnera
 | Resource | Description |
 |---|---|
 | [Longitudinal R workflow](analysis/longitudinal_health_analysis.Rmd) | Reproducible transformation, GLMM, GEE, and diagnostic workflow; runs only with authorized local data |
+| [R pipeline](R/README.md) | Separated code-review entrypoints for data cleaning, symptom mapping, repeated-measures models, and figures |
 | [Methodology](docs/methodology.md) | Study design, modeling approach, and interpretation boundaries |
 | [Data privacy](docs/data_privacy.md) | What is excluded and how restricted data are handled |
 | [Data-access guide](data/README.md) | Expected local input structure in an approved environment |
+| [Reproducibility](docs/reproducibility.md) | Dependency manifest and instructions for creating an approved local environment |
 
 ## Methods at a Glance
 
@@ -83,6 +116,7 @@ In an approved environment, place the authorized inputs in `data/private/` and r
 ```text
 .
 ├── analysis/       # reusable R workflow
+├── R/              # separated R pipeline entrypoints
 ├── data/           # access guidance; no restricted records
 ├── docs/           # methodology and privacy documentation
 └── figures/        # aggregate portfolio visuals
