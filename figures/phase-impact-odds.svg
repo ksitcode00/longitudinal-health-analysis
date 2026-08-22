@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="470" viewBox="0 0 1040 470" role="img" aria-labelledby="title desc">
+  <title id="title">Adjusted odds of reported heatwave impact by study phase</title>
+  <desc id="desc">Compared with the hottest first phase, adjusted odds of reported heatwave impact were 0.54 in phase two and 0.47 in phase three.</desc>
+  <rect width="1040" height="470" fill="#fff"/>
+  <text x="64" y="70" fill="#132238" font-family="Arial,sans-serif" font-size="30" font-weight="700">Reported heatwave impact declined after Phase 1</text>
+  <text x="64" y="108" fill="#5e6b7a" font-family="Arial,sans-serif" font-size="18">Adjusted odds relative to Phase 1 · published longitudinal analysis</text>
+  <line x1="240" y1="350" x2="900" y2="350" stroke="#b5c1cc" stroke-width="2"/>
+  <g font-family="Arial,sans-serif" text-anchor="middle">
+    <rect x="310" y="150" width="120" height="200" rx="10" fill="#e17d3e"/><text x="370" y="138" fill="#132238" font-size="26" font-weight="700">1.00</text><text x="370" y="382" fill="#34465a" font-size="19">Phase 1</text><text x="370" y="410" fill="#5e6b7a" font-size="15">reference</text>
+    <rect x="520" y="242" width="120" height="108" rx="10" fill="#5a9aa2"/><text x="580" y="230" fill="#132238" font-size="26" font-weight="700">0.54</text><text x="580" y="382" fill="#34465a" font-size="19">Phase 2</text><text x="580" y="410" fill="#5e6b7a" font-size="15">46% lower odds</text>
+    <rect x="730" y="256" width="120" height="94" rx="10" fill="#247b84"/><text x="790" y="244" fill="#132238" font-size="26" font-weight="700">0.47</text><text x="790" y="382" fill="#34465a" font-size="19">Phase 3</text><text x="790" y="410" fill="#5e6b7a" font-size="15">53% lower odds</text>
+  </g>
+  <text x="64" y="452" fill="#5e6b7a" font-family="Arial,sans-serif" font-size="16">Phase 1 was the hottest study period; estimates are adjusted associations, not causal effects.</text>
+</svg>

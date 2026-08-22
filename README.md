@@ -52,6 +52,10 @@ How do participant characteristics, prior diagnoses, and survey phase relate to 
   <img src="figures/study-design.svg" alt="Three-phase longitudinal survey design" width="900" />
 </p>
 
+<p align="center">
+  <img src="figures/phase-impact-odds.svg" alt="Adjusted odds of reported heatwave impact by study phase" width="900" />
+</p>
+
 ## Analysis Walkthrough
 
 ### 1. Restructure repeated responses by participant and phase
