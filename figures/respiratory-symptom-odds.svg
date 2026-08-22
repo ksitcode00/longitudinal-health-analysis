@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="470" viewBox="0 0 1040 470" role="img" aria-labelledby="title desc">
+  <title id="title">Adjusted odds of respiratory symptoms during heatwave periods</title>
+  <desc id="desc">Asthma was associated with approximately 2.3 times higher adjusted odds of respiratory symptoms during heatwave periods.</desc>
+  <rect width="1040" height="470" fill="#ffffff"/>
+  <text x="70" y="75" fill="#132238" font-family="Arial, sans-serif" font-size="30" font-weight="700">Adjusted respiratory-symptom risk</text>
+  <text x="70" y="112" fill="#5e6b7a" font-family="Arial, sans-serif" font-size="18">Heatwave periods · adjusted longitudinal models</text>
+  <line x1="190" y1="310" x2="860" y2="310" stroke="#a9b5c2" stroke-width="3"/>
+  <line x1="300" y1="290" x2="300" y2="330" stroke="#7b8998" stroke-width="2"/>
+  <line x1="580" y1="290" x2="580" y2="330" stroke="#7b8998" stroke-width="2"/>
+  <line x1="860" y1="290" x2="860" y2="330" stroke="#7b8998" stroke-width="2"/>
+  <text x="287" y="360" fill="#5e6b7a" font-family="Arial, sans-serif" font-size="17">1.0×</text>
+  <text x="567" y="360" fill="#5e6b7a" font-family="Arial, sans-serif" font-size="17">2.0×</text>
+  <text x="847" y="360" fill="#5e6b7a" font-family="Arial, sans-serif" font-size="17">3.0×</text>
+  <line x1="300" y1="190" x2="664" y2="190" stroke="#247b84" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="664" cy="190" r="24" fill="#e17d3e"/>
+  <text x="690" y="200" fill="#132238" font-family="Arial, sans-serif" font-size="29" font-weight="700">2.3× higher odds</text>
+  <text x="70" y="426" fill="#5e6b7a" font-family="Arial, sans-serif" font-size="16">Asthma vs. no asthma · association estimated after adjustment for available covariates</text>
+</svg>

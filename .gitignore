@@ -1,0 +1,8 @@
+# Restricted research data and derived participant-level outputs
+data/private/
+results/private/
+
+# R workspace files
+.Rhistory
+.RData
+.Rproj.user/
