@@ -1,5 +1,7 @@
 # Longitudinal Health Analysis: Heatwave-Related Respiratory Symptoms
 
+← [Back to Portfolio](https://github.com/ksitcode00)
+
 **UC San Diego longitudinal public-health research** · **R, GLMM, GEE, longitudinal modeling**
 
 > A privacy-safe portfolio version of a repeated-measures health analysis that identifies factors associated with heatwave-related symptoms across three survey phases.
@@ -82,6 +84,10 @@ odds_ratio_table(respiratory_gee)
 ## Research and Program Implication
 
 The results point to pre-existing respiratory conditions as an important vulnerability factor during heatwave periods. In practice, this supports more targeted heat-health communication, symptom monitoring, and preparedness resources for higher-risk populations. These are observational associations from the study context, not causal estimates.
+
+## Related Publication
+
+This portfolio analysis supports the published study: [*Heat and Dust Impacts on the Health of Refugees in Zaatari Refugee Camp*](https://pubmed.ncbi.nlm.nih.gov/42524033/) · *GeoHealth* (2026) · [DOI: 10.1029/2025GH001687](https://doi.org/10.1029/2025GH001687).
 
 ## Analysis and Documentation
 
