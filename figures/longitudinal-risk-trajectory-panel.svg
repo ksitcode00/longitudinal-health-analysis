@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Longitudinal health risk and trajectory panel</title>
+  <desc id="desc">A three-phase repeated-measures evidence panel showing asthma-associated respiratory-symptom odds and adjusted heatwave-impact odds by survey phase.</desc>
+  <defs>
+    <linearGradient id="header" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#263B66"/><stop offset="1" stop-color="#425E99"/></linearGradient>
+    <linearGradient id="risk" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6E57D5"/><stop offset="1" stop-color="#8B78E5"/></linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="7" stdDeviation="8" flood-color="#253965" flood-opacity=".12"/></filter>
+  </defs>
+  <rect width="1200" height="720" fill="#F5F7FC"/>
+  <rect width="1200" height="158" fill="url(#header)"/>
+  <circle cx="1088" cy="-22" r="180" fill="#9FAFE7" opacity=".20"/><circle cx="1170" cy="110" r="96" fill="#D7DFFF" opacity=".14"/>
+  <text x="58" y="61" fill="#CDD8FF" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2.5">LONGITUDINAL PUBLIC-HEALTH ANALYSIS</text>
+  <text x="58" y="108" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">Risk &amp; Trajectory Panel</text>
+  <text x="58" y="136" fill="#E0E7FF" font-family="Arial, Helvetica, sans-serif" font-size="18">660 participants • three survey phases • repeated-measures modeling</text>
+
+  <g filter="url(#shadow)"><rect x="52" y="190" width="260" height="130" rx="18" fill="#FFFFFF"/><rect x="330" y="190" width="260" height="130" rx="18" fill="#FFFFFF"/><rect x="608" y="190" width="260" height="130" rx="18" fill="#FFFFFF"/><rect x="886" y="190" width="262" height="130" rx="18" fill="#FFFFFF"/></g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="78" y="225" fill="#6C7A95" font-size="13" font-weight="700" letter-spacing="1.2">CORE VULNERABILITY</text>
+    <text x="78" y="276" fill="#394E86" font-size="42" font-weight="700">2.3×</text>
+    <text x="78" y="301" fill="#425267" font-size="14">higher adjusted respiratory-symptom odds</text>
+    <text x="356" y="225" fill="#6C7A95" font-size="13" font-weight="700" letter-spacing="1.2">PHASE 1 REFERENCE</text>
+    <text x="356" y="276" fill="#33445F" font-size="42" font-weight="700">1.00</text>
+    <text x="356" y="301" fill="#425267" font-size="14">adjusted heatwave-impact odds</text>
+    <text x="634" y="225" fill="#6C7A95" font-size="13" font-weight="700" letter-spacing="1.2">PHASE 2</text>
+    <text x="634" y="276" fill="#6D57C8" font-size="42" font-weight="700">0.54</text>
+    <text x="634" y="301" fill="#425267" font-size="14">adjusted heatwave-impact odds</text>
+    <text x="912" y="225" fill="#6C7A95" font-size="13" font-weight="700" letter-spacing="1.2">PHASE 3</text>
+    <text x="912" y="276" fill="#6D57C8" font-size="42" font-weight="700">0.47</text>
+    <text x="912" y="301" fill="#425267" font-size="14">adjusted heatwave-impact odds</text>
+  </g>
+
+  <g filter="url(#shadow)"><rect x="52" y="348" width="644" height="262" rx="18" fill="#FFFFFF"/><rect x="724" y="348" width="424" height="262" rx="18" fill="#FFFFFF"/></g>
+  <text x="82" y="388" fill="#253858" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">Three-phase outcome trajectory</text>
+  <text x="82" y="413" fill="#6E7C94" font-family="Arial, Helvetica, sans-serif" font-size="14">Adjusted odds of reported heatwave impact relative to Phase 1</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <line x1="123" y1="548" x2="635" y2="548" stroke="#BBC7DA"/><line x1="123" y1="448" x2="123" y2="548" stroke="#BBC7DA"/>
+    <text x="95" y="553" fill="#75839A" font-size="12">0</text><text x="86" y="500" fill="#75839A" font-size="12">0.5</text><text x="91" y="453" fill="#75839A" font-size="12">1.0</text>
+    <line x1="123" y1="498" x2="635" y2="498" stroke="#E2E7F0" stroke-dasharray="4 5"/><line x1="123" y1="448" x2="635" y2="448" stroke="#E2E7F0" stroke-dasharray="4 5"/>
+    <path d="M206 448 L378 494 L550 501" fill="none" stroke="url(#risk)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="206" cy="448" r="11" fill="#394E86" stroke="#FFFFFF" stroke-width="4"/><circle cx="378" cy="494" r="11" fill="#765ED0" stroke="#FFFFFF" stroke-width="4"/><circle cx="550" cy="501" r="11" fill="#765ED0" stroke="#FFFFFF" stroke-width="4"/>
+    <rect x="178" y="423" width="57" height="22" rx="11" fill="#E9EEFA"/><text x="191" y="439" fill="#394E86" font-size="13" font-weight="700">1.00</text>
+    <rect x="350" y="469" width="57" height="22" rx="11" fill="#F0EDFC"/><text x="365" y="485" fill="#6D57C8" font-size="13" font-weight="700">0.54</text>
+    <rect x="522" y="476" width="57" height="22" rx="11" fill="#F0EDFC"/><text x="537" y="492" fill="#6D57C8" font-size="13" font-weight="700">0.47</text>
+    <text x="174" y="579" fill="#41516B" font-size="14" font-weight="700">Phase 1</text><text x="346" y="579" fill="#41516B" font-size="14" font-weight="700">Phase 2</text><text x="518" y="579" fill="#41516B" font-size="14" font-weight="700">Phase 3</text>
+  </g>
+  <text x="754" y="388" fill="#253858" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">Modeling strategy</text>
+  <text x="754" y="413" fill="#6E7C94" font-family="Arial, Helvetica, sans-serif" font-size="14">Methods matched to correlated responses</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="782" cy="462" r="21" fill="#E9EEFA"/><text x="770" y="468" fill="#3A5089" font-size="15" font-weight="700">01</text>
+    <text x="820" y="459" fill="#33445F" font-size="17" font-weight="700">Structure responses by person and phase</text><text x="820" y="481" fill="#6E7C94" font-size="13">Repeated observations retained for analysis</text>
+    <line x1="782" y1="492" x2="782" y2="507" stroke="#B9C5D8" stroke-width="2"/>
+    <circle cx="782" cy="528" r="21" fill="#F0EDFC"/><text x="770" y="534" fill="#6D57C8" font-size="15" font-weight="700">02</text>
+    <text x="820" y="525" fill="#33445F" font-size="17" font-weight="700">Fit GLMM for participant-level correlation</text><text x="820" y="547" fill="#6E7C94" font-size="13">Adjusted association estimation</text>
+    <line x1="782" y1="558" x2="782" y2="573" stroke="#B9C5D8" stroke-width="2"/>
+    <circle cx="782" cy="594" r="21" fill="#E9EEFA"/><text x="770" y="600" fill="#3A5089" font-size="15" font-weight="700">03</text>
+    <text x="820" y="591" fill="#33445F" font-size="17" font-weight="700">Check robustness with GEE</text><text x="820" y="613" fill="#6E7C94" font-size="13">Sensitivity to modeling assumptions</text>
+  </g>
+  <rect x="52" y="637" width="1096" height="52" rx="14" fill="#E8EDF8"/>
+  <text x="78" y="669" fill="#435A8E" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Interpretation boundary:</text>
+  <text x="248" y="669" fill="#526278" font-family="Arial, Helvetica, sans-serif" font-size="15">adjusted observational associations from the study context; not causal estimates.</text>
+</svg>

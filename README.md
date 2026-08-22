@@ -44,6 +44,12 @@ How do participant characteristics, prior diagnoses, and survey phase relate to 
 - Asthma was associated with approximately **2.3× higher adjusted odds** of respiratory symptoms during heatwave periods.
 - GLMM and GEE approaches supported evaluation of within-participant correlation and robustness to modeling assumptions.
 
+## Longitudinal Risk & Trajectory Panel
+
+<p align="center">
+  <img src="figures/longitudinal-risk-trajectory-panel.svg" alt="Longitudinal health risk and trajectory evidence panel" width="900" />
+</p>
+
 <p align="center">
   <img src="figures/respiratory-symptom-odds.svg" alt="Adjusted respiratory symptom odds during heatwave periods" width="900" />
 </p>
