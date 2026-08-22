@@ -51,7 +51,7 @@ How do participant characteristics, prior diagnoses, and survey phase relate to 
 </p>
 
 <p align="center">
-  <img src="figures/respiratory-symptom-odds.svg" alt="Adjusted respiratory symptom odds during heatwave periods" width="900" />
+  <img src="figures/respiratory-symptom-odds-hero.png" alt="Adjusted respiratory symptom odds during heatwave periods" width="900" />
 </p>
 
 <p align="center">
