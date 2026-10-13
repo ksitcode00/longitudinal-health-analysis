@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='864.00pt' height='460.80pt' viewBox='0 0 864.00 460.80'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw4NjQuMDB8MC4wMHw0NjAuODA='>
+    <rect x='0.00' y='0.00' width='864.00' height='460.80' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHw0NjAuODA=)'>
+<rect x='0.00' y='-0.00000000000011' width='864.00' height='460.80' style='stroke-width: 1.55; stroke: none; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpMjQ3LjA3fDgzMi4xMnw5Ny4zMnwyMTguNjc='>
+    <rect x='247.07' y='97.32' width='585.05' height='121.34' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMjQ3LjA3fDgzMi4xMnw5Ny4zMnwyMTguNjc=)'>
+<polyline points='306.83,218.67 306.83,97.32 ' style='stroke-width: 0.85; stroke: #E5EBED; stroke-linecap: butt;' />
+<polyline points='377.08,218.67 377.08,97.32 ' style='stroke-width: 0.85; stroke: #E5EBED; stroke-linecap: butt;' />
+<polyline points='504.72,218.67 504.72,97.32 ' style='stroke-width: 0.85; stroke: #E5EBED; stroke-linecap: butt;' />
+<polyline points='595.29,218.67 595.29,97.32 ' style='stroke-width: 0.85; stroke: #E5EBED; stroke-linecap: butt;' />
+<line x1='595.29' y1='218.67' x2='595.29' y2='97.32' style='stroke-width: 1.07; stroke: #7F8D92; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
+<line x1='395.42' y1='130.42' x2='496.21' y2='130.42' style='stroke-width: 2.99; stroke: #087E83; stroke-linecap: butt;' />
+<line x1='389.43' y1='185.57' x2='483.00' y2='185.57' style='stroke-width: 2.99; stroke: #087E83; stroke-linecap: butt;' />
+<polygon points='439.64,130.42 444.80,125.26 449.95,130.42 444.80,135.57 ' style='stroke-width: 0.71; stroke: none; fill: #087E83;' />
+<polygon points='429.32,185.57 434.47,180.42 439.63,185.57 434.47,190.73 ' style='stroke-width: 0.71; stroke: none; fill: #087E83;' />
+<text x='642.01' y='135.31' style='font-size: 13.66px;fill: #242C30; font-family: "Arial";' textLength='108.58px' lengthAdjust='spacingAndGlyphs'>0.62  (0.53 - 0.73)</text>
+<text x='642.01' y='190.47' style='font-size: 13.66px;fill: #242C30; font-family: "Arial";' textLength='108.58px' lengthAdjust='spacingAndGlyphs'>0.60  (0.52 - 0.70)</text>
+</g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHw0NjAuODA=)'>
+</g>
+<defs>
+  <clipPath id='cpMjQ3LjA3fDgzMi4xMnwyNDIuNTh8MzYzLjky'>
+    <rect x='247.07' y='242.58' width='585.05' height='121.34' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMjQ3LjA3fDgzMi4xMnwyNDIuNTh8MzYzLjky)'>
+<polyline points='306.83,363.92 306.83,242.58 ' style='stroke-width: 0.85; stroke: #E5EBED; stroke-linecap: butt;' />
+<polyline points='377.08,363.92 377.08,242.58 ' style='stroke-width: 0.85; stroke: #E5EBED; stroke-linecap: butt;' />
+<polyline points='504.72,363.92 504.72,242.58 ' style='stroke-width: 0.85; stroke: #E5EBED; stroke-linecap: butt;' />
+<polyline points='595.29,363.92 595.29,242.58 ' style='stroke-width: 0.85; stroke: #E5EBED; stroke-linecap: butt;' />
+<line x1='595.29' y1='363.92' x2='595.29' y2='242.58' style='stroke-width: 1.07; stroke: #7F8D92; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
+<line x1='357.60' y1='275.67' x2='449.83' y2='275.67' style='stroke-width: 2.99; stroke: #BE4436; stroke-linecap: butt;' />
+<line x1='314.60' y1='330.83' x2='407.08' y2='330.83' style='stroke-width: 2.99; stroke: #BE4436; stroke-linecap: butt;' />
+<polygon points='396.15,275.67 401.31,270.51 406.46,275.67 401.31,280.83 ' style='stroke-width: 0.71; stroke: none; fill: #BE4436;' />
+<polygon points='352.44,330.83 357.60,325.67 362.76,330.83 357.60,335.98 ' style='stroke-width: 0.71; stroke: none; fill: #BE4436;' />
+<text x='642.01' y='280.57' style='font-size: 13.66px;fill: #242C30; font-family: "Arial";' textLength='108.58px' lengthAdjust='spacingAndGlyphs'>0.54  (0.47 - 0.63)</text>
+<text x='642.01' y='335.73' style='font-size: 13.66px;fill: #242C30; font-family: "Arial";' textLength='108.58px' lengthAdjust='spacingAndGlyphs'>0.47  (0.41 - 0.55)</text>
+</g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHw0NjAuODA=)'>
+</g>
+<defs>
+  <clipPath id='cpMjQuOTF8MTIyLjExfDk3LjMyfDIxOC42Nw=='>
+    <rect x='24.91' y='97.32' width='97.20' height='121.34' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMjQuOTF8MTIyLjExfDk3LjMyfDIxOC42Nw==)'>
+<text x='73.51' y='163.75' text-anchor='middle' style='font-size: 16.00px; font-weight: bold;fill: #242C30; font-family: "Helvetica";' textLength='84.45px' lengthAdjust='spacingAndGlyphs'>Dust storm</text>
+</g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHw0NjAuODA=)'>
+</g>
+<defs>
+  <clipPath id='cpMjQuOTF8MTIyLjExfDI0Mi41OHwzNjMuOTI='>
+    <rect x='24.91' y='242.58' width='97.20' height='121.34' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMjQuOTF8MTIyLjExfDI0Mi41OHwzNjMuOTI=)'>
+<text x='73.51' y='309.00' text-anchor='middle' style='font-size: 16.00px; font-weight: bold;fill: #242C30; font-family: "Helvetica";' textLength='73.82px' lengthAdjust='spacingAndGlyphs'>Heatwave</text>
+</g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHw0NjAuODA=)'>
+<text x='306.83' y='380.27' text-anchor='middle' style='font-size: 12.80px;fill: #242C30; font-family: "Helvetica";' textLength='24.90px' lengthAdjust='spacingAndGlyphs'>0.40</text>
+<text x='377.08' y='380.27' text-anchor='middle' style='font-size: 12.80px;fill: #242C30; font-family: "Helvetica";' textLength='24.90px' lengthAdjust='spacingAndGlyphs'>0.50</text>
+<text x='504.72' y='380.27' text-anchor='middle' style='font-size: 12.80px;fill: #242C30; font-family: "Helvetica";' textLength='24.90px' lengthAdjust='spacingAndGlyphs'>0.75</text>
+<text x='595.29' y='380.27' text-anchor='middle' style='font-size: 12.80px;fill: #242C30; font-family: "Helvetica";' textLength='24.90px' lengthAdjust='spacingAndGlyphs'>1.00</text>
+<text x='239.90' y='190.16' text-anchor='end' style='font-size: 12.80px;fill: #242C30; font-family: "Helvetica";' textLength='113.80px' lengthAdjust='spacingAndGlyphs'>Phase 3 vs Phase 1</text>
+<text x='239.90' y='135.01' text-anchor='end' style='font-size: 12.80px;fill: #242C30; font-family: "Helvetica";' textLength='113.80px' lengthAdjust='spacingAndGlyphs'>Phase 2 vs Phase 1</text>
+<text x='239.90' y='335.42' text-anchor='end' style='font-size: 12.80px;fill: #242C30; font-family: "Helvetica";' textLength='113.80px' lengthAdjust='spacingAndGlyphs'>Phase 3 vs Phase 1</text>
+<text x='239.90' y='280.26' text-anchor='end' style='font-size: 12.80px;fill: #242C30; font-family: "Helvetica";' textLength='113.80px' lengthAdjust='spacingAndGlyphs'>Phase 2 vs Phase 1</text>
+<text x='539.59' y='398.57' text-anchor='middle' style='font-size: 16.00px; font-family: "Helvetica";' textLength='407.01px' lengthAdjust='spacingAndGlyphs'>Odds ratio (log scale)   |   Dashed line: Phase 1 reference</text>
+<text x='24.91' y='68.11' style='font-size: 15.00px;fill: #59666C; font-family: "Helvetica";' textLength='476.78px' lengthAdjust='spacingAndGlyphs'>Adjusted GEE odds ratios for reported impact | Phase 1 is the reference</text>
+<text x='24.91' y='43.62' style='font-size: 26.00px; font-weight: bold;fill: #242C30; font-family: "Helvetica";' textLength='550.46px' lengthAdjust='spacingAndGlyphs'>Reported impacts were lower in later phases</text>
+<text x='24.91' y='417.97' style='font-size: 11.00px;fill: #59666C; font-family: "Helvetica";' textLength='434.67px' lengthAdjust='spacingAndGlyphs'>Points: adjusted odds ratios; lines: 95% confidence intervals. Right column: OR (95% CI).</text>
+<text x='24.91' y='436.45' style='font-size: 11.00px;fill: #59666C; font-family: "Helvetica";' textLength='488.56px' lengthAdjust='spacingAndGlyphs'>Source: final manuscript, Tables 6-7. These are phase associations, not measured exposure effects.</text>
+</g>
+</svg>

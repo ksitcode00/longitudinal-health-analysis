@@ -44,23 +44,23 @@ How do participant characteristics, prior diagnoses, and survey phase relate to 
 - Asthma was associated with approximately **2.3× higher adjusted odds** of respiratory symptoms during heatwave periods.
 - GLMM and GEE approaches supported evaluation of within-participant correlation and robustness to modeling assumptions.
 
-## Longitudinal Risk & Trajectory Panel
+## Evidence at a Glance
 
-<p align="center">
-  <img src="figures/longitudinal-risk-trajectory-panel.svg" alt="Longitudinal health risk and trajectory evidence panel" width="900" />
-</p>
+![Selected GEE associations with 95% confidence intervals: asthma history and dyspnea, and reported heatwave impacts by phase](figures/research-evidence.png)
 
-<p align="center">
-  <img src="figures/respiratory-symptom-odds-hero.png" alt="Adjusted respiratory symptom odds during heatwave periods" width="900" />
-</p>
+Asthma history was associated with higher adjusted odds of dyspnea during both heatwave and dust-storm periods. Later phases had lower odds of reported heatwave impacts relative to Phase 1. The dashed line marks an odds ratio of 1; the interval lines show uncertainty.
 
-<p align="center">
-  <img src="figures/study-design.svg" alt="Three-phase longitudinal survey design" width="900" />
-</p>
+### Phase Comparisons
 
-<p align="center">
-  <img src="figures/phase-impact-odds.svg" alt="Adjusted odds of reported heatwave impact by study phase" width="900" />
-</p>
+![Adjusted odds ratios and 95% confidence intervals for reported heatwave and dust-storm impacts in Phases 2 and 3 versus Phase 1](figures/phase-associations.png)
+
+These comparisons describe reported impacts across survey periods. They do not estimate the causal effect of temperature or dust exposure.
+
+### R Analysis Workflow
+
+![R workflow from symptom text cleaning and person-phase records through GLMM and GEE modeling to interval estimates and interpretation](figures/analysis-workflow.png)
+
+The figures reproduce aggregate GEE estimates from Tables 6-7 of the supplied final manuscript. They are selected results, not a complete model summary or a fresh fit of the restricted data. See [figure sources and reproduction](figures/README.md).
 
 ## Analysis Walkthrough
 

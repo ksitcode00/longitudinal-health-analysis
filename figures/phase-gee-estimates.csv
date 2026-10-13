@@ -1,0 +1,5 @@
+"event","phase","estimate","lower","upper"
+"Heatwave","Phase 2 vs Phase 1",0.54,0.47,0.63
+"Heatwave","Phase 3 vs Phase 1",0.47,0.41,0.55
+"Dust storm","Phase 2 vs Phase 1",0.62,0.53,0.73
+"Dust storm","Phase 3 vs Phase 1",0.6,0.52,0.7

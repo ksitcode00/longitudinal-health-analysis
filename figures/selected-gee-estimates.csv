@@ -1,0 +1,5 @@
+"event","outcome","comparison","estimate","lower","upper"
+"Heatwave","Dyspnea","Asthma history",2.31,1.78,2.99
+"Dust storm","Dyspnea","Asthma history",1.92,1.52,2.43
+"Heatwave","Reported impact","Phase 2 vs Phase 1",0.54,0.47,0.63
+"Heatwave","Reported impact","Phase 3 vs Phase 1",0.47,0.41,0.55

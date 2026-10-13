@@ -9,5 +9,6 @@ These scripts expose the key longitudinal workflow as reusable entrypoints while
 | `02_symptom_mapping.R` | Maps cleaned free-text conditions into analytical indicators |
 | `03_longitudinal_models.R` | Fits GLMM and GEE repeated-measures models |
 | `04_visualization.R` | Creates phase-level figures in `results/private/` |
+| [`05_portfolio_figures.R`](05_portfolio_figures.R) | Reproduces public portfolio figures from aggregate manuscript estimates |
 
 The public scripts contain no participant-level records. The full workflow is in [`analysis/longitudinal_health_analysis.Rmd`](../analysis/longitudinal_health_analysis.Rmd).

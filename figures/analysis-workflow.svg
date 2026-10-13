@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='864.00pt' height='504.00pt' viewBox='0 0 864.00 504.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw4NjQuMDB8MC4wMHw1MDQuMDA='>
+    <rect x='0.00' y='0.00' width='864.00' height='504.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHw1MDQuMDA=)'>
+<text x='43.20' y='49.67' style='font-size: 27.00px; font-weight: bold;fill: #242C30; font-family: "Helvetica";' textLength='592.83px' lengthAdjust='spacingAndGlyphs'>From survey responses to statistical evidence</text>
+<text x='43.20' y='87.08' style='font-size: 16.00px;fill: #59666C; font-family: "Helvetica";' textLength='507.19px' lengthAdjust='spacingAndGlyphs'>R workflow | Three repeated survey phases | Restricted participant data</text>
+<text x='43.20' y='167.75' style='font-size: 23.00px; font-weight: bold;fill: #242C30; font-family: "Helvetica";' textLength='85.64px' lengthAdjust='spacingAndGlyphs'>Prepare</text>
+<polyline points='43.20,183.96 259.20,183.96 ' style='stroke-width: 0.75; stroke: #087E83;' />
+<text x='319.68' y='167.75' style='font-size: 23.00px; font-weight: bold;fill: #242C30; font-family: "Helvetica";' textLength='66.43px' lengthAdjust='spacingAndGlyphs'>Model</text>
+<polyline points='319.68,183.96 535.68,183.96 ' style='stroke-width: 0.75; stroke: #BE4436;' />
+<text x='596.16' y='167.75' style='font-size: 23.00px; font-weight: bold;fill: #242C30; font-family: "Helvetica";' textLength='93.28px' lengthAdjust='spacingAndGlyphs'>Interpret</text>
+<polyline points='596.16,183.96 812.16,183.96 ' style='stroke-width: 0.75; stroke: #087E83;' />
+<text x='43.20' y='218.84' style='font-size: 17.00px;fill: #242C30; font-family: "Helvetica";' textLength='156.87px' lengthAdjust='spacingAndGlyphs'>Standardize free text</text>
+<text x='43.20' y='249.44' style='font-size: 17.00px;fill: #242C30; font-family: "Helvetica";' textLength='185.19px' lengthAdjust='spacingAndGlyphs'>Group clinical symptoms</text>
+<text x='43.20' y='280.04' style='font-size: 17.00px;fill: #242C30; font-family: "Helvetica";' textLength='207.89px' lengthAdjust='spacingAndGlyphs'>Build person-phase records</text>
+<text x='319.68' y='218.84' style='font-size: 17.00px;fill: #242C30; font-family: "Helvetica";' textLength='176.68px' lengthAdjust='spacingAndGlyphs'>GLMM: subject-specific</text>
+<text x='319.68' y='249.44' style='font-size: 17.00px;fill: #242C30; font-family: "Helvetica";' textLength='190.90px' lengthAdjust='spacingAndGlyphs'>GEE: population-average</text>
+<text x='319.68' y='280.04' style='font-size: 17.00px;fill: #242C30; font-family: "Helvetica";' textLength='189.00px' lengthAdjust='spacingAndGlyphs'>Check model diagnostics</text>
+<text x='596.16' y='218.84' style='font-size: 17.00px;fill: #242C30; font-family: "Helvetica";' textLength='188.05px' lengthAdjust='spacingAndGlyphs'>Odds ratios and intervals</text>
+<text x='596.16' y='249.44' style='font-size: 17.00px;fill: #242C30; font-family: "Helvetica";' textLength='121.90px' lengthAdjust='spacingAndGlyphs'>Phase contrasts</text>
+<text x='596.16' y='280.04' style='font-size: 17.00px;fill: #242C30; font-family: "Helvetica";' textLength='191.84px' lengthAdjust='spacingAndGlyphs'>Public-health implications</text>
+<polyline points='259.20,262.08 280.80,262.08 ' style='stroke-width: 1.12; stroke: #59666C;' />
+<polyline points='274.56,265.68 280.80,262.08 274.56,258.48 ' style='stroke-width: 1.12; stroke: #59666C;' />
+<polyline points='535.68,262.08 557.28,262.08 ' style='stroke-width: 1.12; stroke: #59666C;' />
+<polyline points='551.04,265.68 557.28,262.08 551.04,258.48 ' style='stroke-width: 1.12; stroke: #59666C;' />
+<polyline points='43.20,347.76 820.80,347.76 ' style='stroke-width: 0.75; stroke: #DDE5E7;' />
+<text x='43.20' y='381.95' style='font-size: 16.00px; font-weight: bold;fill: #242C30; font-family: "Helvetica";' textLength='152.00px' lengthAdjust='spacingAndGlyphs'>Statistical judgment</text>
+<text x='43.20' y='412.16' style='font-size: 16.00px;fill: #59666C; font-family: "Helvetica";' textLength='529.15px' lengthAdjust='spacingAndGlyphs'>Evaluate random-slope singularity; retain a supported correlation structure.</text>
+<text x='43.20' y='440.96' style='font-size: 16.00px;fill: #59666C; font-family: "Helvetica";' textLength='522.91px' lengthAdjust='spacingAndGlyphs'>Compare time specifications and report uncertainty alongside effect sizes.</text>
+<text x='43.20' y='470.48' style='font-size: 13.00px;fill: #59666C; font-family: "Helvetica";' textLength='487.02px' lengthAdjust='spacingAndGlyphs'>Public portfolio: code and aggregate estimates. Participant records remain restricted.</text>
+</g>
+</svg>
